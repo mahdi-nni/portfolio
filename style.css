@@ -980,12 +980,12 @@ hr {
     }
 
     .nav {
-        gap: 8px;
+        gap: 4px;
     }
 
     .nav__link {
         font-size: 10px;
-        padding: 3px 6px;
+        padding: 3px 3px;
     }
     
     .hero__name {
