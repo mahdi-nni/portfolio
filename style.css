@@ -628,13 +628,13 @@ body {
 }
 
 .contact-item__label {
-    font-size: 14px;
-    font-weight: 600;
+    font-size: 13px;
+    font-weight: 500;
     color: #b8b8b8;
 }
 
 .contact-item__value {
-    font-size: 15px;
+    font-size: 14px;
     color: #ffffff;
 }
 
