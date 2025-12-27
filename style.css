@@ -1094,7 +1094,13 @@ hr {
     .contact-item {
         gap: 15px;
     }
-
+    
+    .contact-item__info {
+        white-space: nowrap;
+        overflow: hidden;
+        text-decoration: ellipsis;
+    } 
+    
     .contact-item__icon {
         width: 45px;
         height: 45px;
